@@ -8,7 +8,7 @@ from io import BytesIO
 st.set_page_config(page_title="Consolidador de Acciones", page_icon="📈")
 
 # Título de la aplicación
-st.title("Consolidador de Precios de Acciones Chilenas")
+st.title("Consolidador de Precios de Acciones")
 
 # 1. Widgets para ingresar fechas
 col1, col2 = st.columns(2)
